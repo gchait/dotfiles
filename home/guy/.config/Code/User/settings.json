@@ -1,7 +1,7 @@
 {
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "gruvbox-material-icon-theme",
-  "workbench.colorTheme": "Jellybeans Theme",
+  "workbench.colorTheme": "Dracula Theme",
   "editor.fontFamily": "Fira Code Retina",
 
   "update.showReleaseNotes": false,
